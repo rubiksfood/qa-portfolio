@@ -1,0 +1,62 @@
+# =========================
+# OS-specific files
+# =========================
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS (in case collaborators use it)
+.DS_Store
+
+# =========================
+# Editor / IDE files
+# =========================
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs (just in case)
+.idea/
+
+# =========================
+# Logs & temporary files
+# =========================
+
+# Log files
+*.log
+
+# QA evidence logs (keep structure, ignore contents)
+assets/logs/*.txt
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# =========================
+# Archives / exports
+# =========================
+
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# =========================
+# Environment / secrets
+# =========================
+
+.env
+.env.local
+.env.*.local
+
+# =========================
+# Node / tooling leftovers (defensive)
+# =========================
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
