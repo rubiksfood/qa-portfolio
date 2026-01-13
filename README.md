@@ -41,12 +41,16 @@ This portfolio is intentionally documentation-focused and reflects how QA work i
 ### Completed
 - Initial repository structure
 - Documentation framework for QA artifacts
-
-### In progress
 - Test plan for **shopping-list-app**
 - Risk matrix for **shopping-list-app**
+
+### In progress
 - Manual test cases for **media-playback-time-converter**
 - Bug report template and first example reports
+- Exploratory testing charters
+- API test notes
+- Automation showcase
+- Traceability (issue index)
 
 Planned artifacts will be added incrementally and marked as completed once available.
 
