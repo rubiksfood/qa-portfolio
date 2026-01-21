@@ -43,9 +43,10 @@ This portfolio is intentionally documentation-focused and reflects how QA work i
 - Documentation framework for QA artifacts
 - Test plan for **shopping-list-app**
 - Risk matrix for **shopping-list-app**
+- Manual test cases for **media-playback-time-converter**
 
 ### In progress
-- Manual test cases for **media-playback-time-converter**
+- Smoke/Regression checklist for **shopping-list-app**
 - Bug report template and first example reports
 - Exploratory testing charters
 - API test notes
