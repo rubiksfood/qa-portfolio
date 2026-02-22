@@ -44,14 +44,15 @@ This portfolio is intentionally documentation-focused and reflects how QA work i
 - Test plan for **shopping-list-app**
 - Risk matrix for **shopping-list-app**
 - Manual test cases for **media-playback-time-converter**
-
-### In progress
 - Smoke/Regression checklist for **shopping-list-app**
 - Bug report template and first example reports
+
+### In progress
 - Exploratory testing charters
 - API test notes
 - Automation showcase
 - Traceability (issue index)
+- More bug report examples
 
 Planned artifacts will be added incrementally and marked as completed once available.
 
