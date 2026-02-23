@@ -64,9 +64,10 @@ E2E suite behaved non-deterministically.
 
 ---
 
-## Severity
+## Impact / Severity
 
-High
+Severity: High  
+Priority: P1 – Immediate  
 
 Rationale:
 - Undermines confidence in CI results
@@ -124,7 +125,7 @@ The resolution included:
 
 ## Related
 
-Informed by backend DB lifecycle work (Issue #3 – Backend integration tests unstable due to DB lifecycle & test environment coupling).
+BR-003 – Backend DB lifecycle instability & test environment coupling.
 
 ---
 

@@ -70,9 +70,10 @@ Test results were non-deterministic and unreliable.
 
 ---
 
-## Severity
+## Impact / Severity
 
-High
+Severity: High  
+Priority: P1 – Immediate  
 
 Rationale:
 - Undermines confidence in backend test results.
@@ -109,14 +110,6 @@ The resolution included:
 - Preventing database access at module import time.
 - Centralising database setup and teardown in Jest global setup.
 - Using a dedicated test environment file (config.test.env).
-
-Example of corrected lifecycle approach:
-
-```
-async function connectDB() {
-  if (db) return db;
-}
-```
 
 ---
 
