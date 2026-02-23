@@ -1,10 +1,11 @@
 # QA Portfolio
 
-This repository contains curated QA artifacts demonstrating my approach to software quality assurance, test design, and defect documentation.
+This repository contains curated QA artifacts demonstrating a structured, risk-based approach to software quality assurance, test design, and defect management.
 
 It complements my application repositories by collecting **test plans, manual test cases, bug reports, and exploratory testing notes** in one place, with a focus on clarity, traceability, and realistic QA workflows.
 
-This portfolio is intentionally documentation-focused and reflects how QA work is planned, executed, and iterated in practice.
+This portfolio demonstrates how QA work is planned, prioritised, executed, and documented across multiple projects.  
+It places particular emphasis on deterministic testing, infrastructure stability, and clear defect communication.
 
 ---
 
@@ -13,7 +14,7 @@ This portfolio is intentionally documentation-focused and reflects how QA work i
 - `00-About/`  
   Background information, QA workflow notes, and tools used
 
-- `01-Test-Artifacts/`  
+- `01-Test-Strategy/`  
   Test plans, test strategies, and risk assessments
 
 - `02-Test-Cases/`  
@@ -22,13 +23,13 @@ This portfolio is intentionally documentation-focused and reflects how QA work i
 - `03-Bug-Reports/`  
   Bug report templates and selected example reports
 
-- `04-Exploratory-Testing/`  
+- `04-Exploratory/`  
   Exploratory testing charters and session notes
 
-- `05-API-Testing/`  
+- `05-API-Test-Artifacts/`  
   Basic API testing evidence and notes (where applicable)
 
-- `06-Automation-Showcase/`  
+- `06-Test-Automation/`  
   Overviews of automated testing approaches in related projects
 
 - `07-Traceability/`  
@@ -71,7 +72,7 @@ This QA portfolio is based on testing work carried out on the following projects
 - **knit-converter**  
   Python utility with a unit-tested text-processing core
 
-Links to specific test cases, bug reports, and GitHub Issues will be added as the portfolio develops.
+Where applicable, artifacts reference real GitHub Issues and fixes for traceability.
 
 ---
 
@@ -79,4 +80,4 @@ Links to specific test cases, bug reports, and GitHub Issues will be added as th
 
 - This repository focuses on **QA deliverables**, not application source code.
 - Where possible, artifacts link to real GitHub Issues and commits for traceability.
-- All documentation reflects realistic junior QA responsibilities and workflows.
+- All documentation reflects realistic QA responsibilities and workflows.
