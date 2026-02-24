@@ -9,7 +9,7 @@ It provides context for the test artifacts, bug reports, and traceability refere
 ## Contents
 
 ### qa-approach.md
-Describes the overall testing philosophy, including:
+Describes my overall testing philosophy, including:
 
 - Risk-based testing
 - Layered test strategy (unit → integration → E2E → manual)
@@ -41,6 +41,8 @@ The documents in this folder support the artifacts in:
 - `01-Test-Strategy/`
 - `02-Test-Cases/`
 - `03-Bug-Reports/`
+- `04-Exploratory/`
+- `05-API-Test-Artifacts`
 
 They describe the framework behind the practical QA work demonstrated elsewhere in the portfolio.
 
