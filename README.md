@@ -14,20 +14,20 @@ It places particular emphasis on deterministic testing, infrastructure stability
 - `00-About/`  
   Background information, QA workflow notes, and tools used
 
-- `01-Test-Strategy/`  
-  Test plans, test strategies, and risk assessments
+- `01–Quality Strategy/`  
+High-level QA approach, defect classification model, risk assessment, and project-level test strategy.
 
-- `02-Test-Cases/`  
-  Manual test cases and smoke/regression checklists
+- `02-Test Design/`  
+Layered test design across backend, frontend, and end-to-end levels, including defined test conditions and techniques applied.
 
-- `03-Bug-Reports/`  
-  Bug report templates and selected example reports
+- `03–Defect Management/`  
+Structured bug reports including reproduction steps, expected vs. actual results, severity justification, and root cause analysis where applicable.
 
-- `04-Exploratory/`  
-  Exploratory testing charters and session notes
+- `04–Exploratory Testing/`  
+Timeboxed exploratory session notes focused on authentication, session handling, and failure-mode behaviour.
 
-- `05-API-Test-Artifacts/`  
-  Basic API testing evidence and notes (where applicable)
+- `05–API Testing/`  
+Backend API test design aligned with automated Jest + Supertest integration tests.
 
 - `06-Test-Automation/`  
   Overviews of automated testing approaches in related projects
@@ -47,13 +47,12 @@ It places particular emphasis on deterministic testing, infrastructure stability
 - Manual test cases for **media-playback-time-converter**
 - Smoke/Regression checklist for **shopping-list-app**
 - Bug report template and first example reports
-
-### In progress
 - Exploratory testing charters
 - API test notes
-- Automation showcase
+
+### In progress
+- Automation strategy / architecture
 - Traceability (issue index)
-- More bug report examples
 
 Planned artifacts will be added incrementally and marked as completed once available.
 
@@ -61,18 +60,10 @@ Planned artifacts will be added incrementally and marked as completed once avail
 
 ## Related projects
 
-This QA portfolio is based on testing work carried out on the following projects:
+This QA portfolio is based on testing work carried out on the following project:
 
 - **shopping-list-app**  
-  Full-stack MERN application with automated and manual testing
-
-- **media-playback-time-converter**  
-  JavaScript web application used for manual testing and test case design
-
-- **knit-converter**  
-  Python utility with a unit-tested text-processing core
-
-Where applicable, artifacts reference real GitHub Issues and fixes for traceability.
+  Full-stack MERN application with automated and manual testing.
 
 ---
 

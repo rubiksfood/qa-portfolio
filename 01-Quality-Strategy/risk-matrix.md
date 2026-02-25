@@ -1,6 +1,6 @@
 # Risk Matrix – Shopping List App
 Author: Joshua Pearson  
-Document type: QA Risk Assessment (ISTQB-aligned)  
+Document type: QA Risk Assessment  
 Scope: Shopping List App (Full-stack MERN)
 
 ---
