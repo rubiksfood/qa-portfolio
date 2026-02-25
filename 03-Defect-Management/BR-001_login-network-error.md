@@ -74,11 +74,11 @@ Test run reference: TR-2026-01-29-initial-regression-baseline
 
 Screenshot: login-network-error-firefox.png  
 Description: Raw browser network error displayed in login UI.  
-![Login network error](../08-Assets/screenshots/login-network-error-firefox.png)
+![Login network error](../09-Assets/screenshots/login-network-error-firefox.png)
 
 Screenshot: network-login-cors-failed.png  
 Description: Network tab showing failed POST /login request and CORS preflight failure.  
-![Failed POST /login request](../08-Assets/screenshots/network-login-cors-failed.png)
+![Failed POST /login request](../09-Assets/screenshots/network-login-cors-failed.png)
 
 ---
 

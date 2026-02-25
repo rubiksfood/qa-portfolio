@@ -12,7 +12,7 @@ Status: Open
 When a user’s JWT becomes invalid or is removed, the application logs the user out successfully but 
 provides no user-facing feedback explaining why the logout occurred.
 
-This results in confusing user experience and does not meet expectations for graceful session handling.
+This results in a confusing user experience and does not meet expectations for graceful session handling.
 
 ---
 
@@ -76,7 +76,7 @@ Test run reference: TR-2026-01-29-initial-regression-baseline
 Screenshot: session-logout-no-feedback.png  
 Description: User is redirected to login page with no message explaining session invalidation.
 
-![Session logout no feedback](../08-Assets/screenshots/session-logout-no-feedback.png)
+![Session logout no feedback](../09-Assets/screenshots/session-logout-no-feedback.png)
 
 ---
 
